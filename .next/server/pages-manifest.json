@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/marketplace/courses/manage": "pages/marketplace/courses/manage.html",
+  "/": "pages/index.js",
+  "/courses/[slug]": "pages/courses/[slug].js",
+  "/marketplace/courses/owned": "pages/marketplace/courses/owned.js",
+  "/marketplace": "pages/marketplace.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
